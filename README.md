@@ -1,4 +1,4 @@
-**NEONSURGE: The WiFi Configurator**
+##  **NEONSURGE: The WiFi Configurator**
 
 In a world where connectivity is life, NEONSURGE is the savior that comes to rescue you from the darkness of manual WiFi configuration. This script is the result of the union of science fiction and reality, created for those who seek a WiFi configuration experience that is both futuristic and epic.
 
